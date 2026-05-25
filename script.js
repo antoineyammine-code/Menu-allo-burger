@@ -14,6 +14,16 @@ document.addEventListener("DOMContentLoaded", () => {
             ]
         },
         {
+            category: "Burgers",
+            items: [
+                { name: "Cheese Burger", price: "275.000 LL", description: "meat patty, lettuce, cheddar cheese and classic house sauce." },
+                { name: "Chicken Burger", price: "275.000 LL", description: "chicken crispy, lettuce, cheddar cheese and chicken bbq special sauce." },
+                { name: "Fish Burger", price: "275.000 LL", description: "white fish fillet, lettuce, cheddar cheese and fish special sauce." },
+                { name: "Double Cheese Burger", price: "450.000 LL", description: "double meat patties, double cheese, lettuce, special sauce." },
+                { name: "Double Chicken Burger", price: "450.000 LL", description: "double chicken crispy, double cheese, lettuce, special sauce." },
+            ]
+        },
+        {
             category: "Drinks & Cocktails",
             items: [
                 { name: "Soft Drink", price: "100.000 LL", description: "Refreshing choice of Coca-Cola, Diet Coke, Sprite, or Fanta." },
