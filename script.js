@@ -14,12 +14,12 @@ document.addEventListener("DOMContentLoaded", () => {
             ]
         },
         {
-            category: "Burgers",
+            category: "side",
             items: [
-                { name: "Cheese Burger", price: "275.000 LL", description: "meat patty, lettuce, cheddar cheese and classic house sauce." },
-                { name: "Chicken Burger", price: "275.000 LL", description: "chicken crispy, lettuce, cheddar cheese and chicken bbq special sauce." },
-                { name: "Fish Burger", price: "275.000 LL", description: "white fish fillet, lettuce, cheddar cheese and fish special sauce." },
-                { name: "Double Cheese Burger", price: "450.000 LL", description: "double meat patties, double cheese, lettuce, special sauce." },
+                { name: "Chicken Crispy", price: "350.000 LL", description: "crispy chicken breast, 6 pieces, 250 grs." },
+                { name: "Chicken crispy", price: "650.000 LL", description: "crispy chicken breast, 12 pieces, 500 grs." },
+                { name: "french fries small", price: "225.000 LL", description: "salted french fries box 150gr." },
+                { name: "french fries medium", price: "125.000 LL", description: "salted french fries box 250 grs." },
                 { name: "Double Chicken Burger", price: "450.000 LL", description: "double chicken crispy, double cheese, lettuce, special sauce." },
             ]
         },
