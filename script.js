@@ -25,8 +25,8 @@ document.addEventListener("DOMContentLoaded", () => {
         {
             category: "Drinks & Cocktails",
             items: [
-                { name: "Soft Drink", price: "100.000 LL", description: "Refreshing choice of Coca-Cola, Diet Coke, Sprite, or Fanta." },
-                { name: "Fresh Fruit Cocktail", price: "250.000 LL", description: "Freshly blended seasonal fruits." }
+                { name: "Soft Drink", price: "100.000 LL", description: "Refreshing choice of Pepsi, Diet, Seven up, or Mirinda." },
+                { name: "Fresh Fruit Cocktail", price: "150.000 LL", description: "Freshly blended fruits, banana, strawberry, almond and condensed milk, 250ml." }
             ]
         }
     ];
