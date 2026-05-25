@@ -14,10 +14,10 @@ document.addEventListener("DOMContentLoaded", () => {
             ]
         },
         {
-            category: "side",
+            category: "sides",
             items: [
-                { name: "Chicken Crispy", price: "350.000 LL", description: "crispy chicken breast, 6 pieces, 250 grs." },
-                { name: "Chicken crispy", price: "650.000 LL", description: "crispy chicken breast, 12 pieces, 500 grs." },
+                { name: "Chicken Crispy 6", price: "350.000 LL", description: "crispy chicken breast, 6 pieces, 250 grs." },
+                { name: "Chicken crispy 12", price: "650.000 LL", description: "crispy chicken breast, 12 pieces, 500 grs." },
                 { name: "french fries small", price: "125.000 LL", description: "salted, crispy and golden french fries box, 150gr." },
                 { name: "french fries medium", price: "225.000 LL", description: "salted, crispy and golden french fries box, 250 grs." },
             ]
