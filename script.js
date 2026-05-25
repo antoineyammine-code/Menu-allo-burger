@@ -28,6 +28,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 { name: "Soft Drink", price: "100.000 LL", description: "Refreshing choice of Pepsi, Diet, Seven up, or Mirinda." },
                 { name: "Fresh Fruit Cocktail", price: "150.000 LL", description: "Freshly blended fruits, banana, strawberry, almond and condensed milk, 250ml." }
             ]
+        },
+        {
+            category: "offers",
+            items: [
+                { name: "4 burgers pack", price: "1.000.000 LL", description: "4 burgers of your choice." },
+                { name: "4 double burgers pack", price: "1.600.000 LL", description: "4 double burgers of your choice." }
+            ]
         }
     ];
 
