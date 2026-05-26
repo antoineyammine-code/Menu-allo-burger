@@ -33,7 +33,8 @@ document.addEventListener("DOMContentLoaded", () => {
             category: "offers",
             items: [
                 { name: "4 burgers pack", price: "1.000.000 LL", description: "4 burgers of your choice." },
-                { name: "4 double burgers pack", price: "1.600.000 LL", description: "4 double burgers of your choice." }
+                { name: "4 double burgers pack", price: "1.600.000 LL", description: "4 double burgers of your choice." },
+                { name: "4 burgers 2 cocktails", price: "1.200.000 LL", description: "4 burgers of your choice and 2 fruit cocktail smoothies 250ml." }
             ]
         }
     ];
