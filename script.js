@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 { name: "Fish Burger", price: "275.000 LL", description: "white fish fillet, lettuce, cheddar cheese and fish special sauce." },
                 { name: "Double Cheese Burger", price: "450.000 LL", description: "double meat patties, double cheese, lettuce, special sauce." },
                 { name: "Double Grilled Chicken Burger", price: "450.000 LL", description: "double grilled chicken patty, double cheese, lettuce and chicken BBQ special sauce." },
-                { name: "Double Crispy Chicken Burger", price: "500.000 LL", description: "double chicken crispy, double cheese, lettuce and chicken BBQ special sauce." },
+              /*{ name: "Double Crispy Chicken Burger", price: "500.000 LL", description: "double chicken crispy, double cheese, lettuce and chicken BBQ special sauce." },*/
             ]
         },
         {
