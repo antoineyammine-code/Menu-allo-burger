@@ -8,21 +8,21 @@ document.addEventListener("DOMContentLoaded", () => {
             items: [
                 { name: "Cheese Burger", price: "275.000 LL", description: "meat patty, lettuce, cheddar cheese and classic house sauce." },
                 { name: "Grilled Chicken Burger", price: "275.000 LL", description: "grilled chicken patty, lettuce, cheddar cheese and chicken BBQ special sauce." },
-              /*{ name: "Crispy Chicken Burger", price: "325.000 LL", description: "chicken crispy, lettuce, cheddar cheese and chicken bbq special sauce." },*/
+                { name: "Crispy Chicken Burger", price: "325.000 LL", description: "chicken crispy, lettuce, cheddar cheese and chicken bbq special sauce." },
                 { name: "Soujok Burger", price: "325.000 LL", description: "soujok mild hot patty, lettuce, cheddar cheese, pickles, tomatoes and soujok special sauce." },
                 { name: "Big Fahita", price: "500.000 LL", description: "400grs, chicken, mozarella, bell pepper, onion, mushrooms and avocado sauce." },
-                { name: "Philly Cheesesteak", price: "600.000 LL", description: "400grs, tender beef cut, mozarella, bell pepper, onion, mushrooms and upon choice aioli mayo sauce." },
+              /*{ name: "Philly Cheesesteak", price: "600.000 LL", description: "400grs, tender beef cut, mozarella, bell pepper, onion, mushrooms and upon choice aioli mayo sauce." }, */
                 { name: "Fish Burger", price: "275.000 LL", description: "white fish fillet, lettuce, cheddar cheese and fish special sauce." },
                 { name: "Double Cheese Burger", price: "450.000 LL", description: "double meat patties, double cheese, lettuce, special sauce." },
                 { name: "Double Grilled Chicken Burger", price: "450.000 LL", description: "double grilled chicken patty, double cheese, lettuce and chicken BBQ special sauce." },
-              /*{ name: "Double Crispy Chicken Burger", price: "500.000 LL", description: "double chicken crispy, double cheese, lettuce and chicken BBQ special sauce." },*/
+                { name: "Double Crispy Chicken Burger", price: "500.000 LL", description: "double chicken crispy, double cheese, lettuce and chicken BBQ special sauce." },
             ]
         },
         {
             category: "sides",
             items: [
-             /* { name: "Chicken Crispy 6", price: "350.000 LL", description: "crispy chicken breast, 6 pieces, 250 grs." },
-                { name: "Chicken crispy 12", price: "650.000 LL", description: "crispy chicken breast, 12 pieces, 500 grs." }, */
+                { name: "Chicken Crispy 6", price: "350.000 LL", description: "crispy chicken breast, 6 pieces, 250 grs." },
+                { name: "Chicken crispy 12", price: "650.000 LL", description: "crispy chicken breast, 12 pieces, 500 grs." },
                 { name: "french fries small", price: "125.000 LL", description: "salted, crispy and golden french fries box, 150gr." },
                 { name: "french fries medium", price: "225.000 LL", description: "salted, crispy and golden french fries box, 250 grs." },
             ]
