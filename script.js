@@ -19,6 +19,13 @@ document.addEventListener("DOMContentLoaded", () => {
             ]
         },
         {
+            category: "sandwiches",
+            items: [
+                { name: "big fries sandwich", price: "200.000 LL", description: "french fries, pickles, garlic sauce, coleslaw, ketchup, big loaf." },
+             /* { name: "Chicken crispy 12", price: "650.000 LL", description: "crispy chicken breast, 12 pieces, 500 grs." }, */
+            ]
+        },
+        {
             category: "sides",
             items: [
                 { name: "Chicken Crispy 6", price: "350.000 LL", description: "crispy chicken breast, 6 pieces, 250 grs." },
