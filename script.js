@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 { name: "Grilled Chicken Burger", price: "275.000 LL", description: "grilled chicken patty, lettuce, cheddar cheese and chicken BBQ special sauce." },
                 { name: "Crispy Chicken Burger", price: "325.000 LL", description: "chicken crispy, lettuce, cheddar cheese and chicken bbq special sauce." },
                 { name: "Soujok Burger", price: "325.000 LL", description: "soujok mild hot patty, lettuce, cheddar cheese, pickles, tomatoes and soujok special sauce." },
+                { name: "Bacon Burger", price: "425.000 LL", description: "meat patty, bacon, cheddar cheese and classic house sauce." },
                 { name: "Big Fahita", price: "500.000 LL", description: "400grs, chicken, mozarella, bell pepper, onion, mushrooms and avocado sauce." },
               /*{ name: "Philly Cheesesteak", price: "600.000 LL", description: "400grs, tender beef cut, mozarella, bell pepper, onion, mushrooms and upon choice aioli mayo sauce." }, */
               /*{ name: "Fish Burger", price: "275.000 LL", description: "white fish fillet, lettuce, cheddar cheese and fish special sauce." }, */
